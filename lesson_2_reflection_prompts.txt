@@ -6,6 +6,7 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 	
+	staging area represents the file which is about to be committed.
 	when you commit, you can create logical chunk of commitment by adding file to the stagint area.
 	so that one commit contains one logical change to the repository.
 
